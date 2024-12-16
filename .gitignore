@@ -1,0 +1,9 @@
+/model_checkpoints
+/model_checkpoints_3.8
+/dataset
+/carla_images
+/test_csv
+/train_csv
+/validation_csv
+class-descriptions-boxable.csv
+test.png
