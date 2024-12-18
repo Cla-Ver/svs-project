@@ -1,9 +1,12 @@
 /model_checkpoints
 /model_checkpoints_3.8
 /dataset
+/datasets
+/YOLOv8
 /carla_images
 /test_csv
 /train_csv
 /validation_csv
+/runs
 class-descriptions-boxable.csv
 test.png
