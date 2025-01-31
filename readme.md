@@ -5,8 +5,8 @@
 3. Eseguire le prime due celle.
 
 ## Comandi con il simulatore
--Pedale destro: accelerazione
--Pedale centrale: freno
--Bottone RT: inserimento / deinserimento retromarcia
--Bottone A: accensione luci frontali
--Bottone X: chiusura simulazione
+*Pedale destro: accelerazione
+*Pedale centrale: freno
+*Bottone RT: inserimento / deinserimento retromarcia
+*Bottone A: accensione luci frontali
+*Bottone X: chiusura simulazione
